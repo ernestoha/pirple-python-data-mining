@@ -3,5 +3,6 @@
 ```bash
 > pip3 install jupyterlab
 > pip3 install pandas
-> jupyter notebook --ip 127.0.0.1 # Star NoteBook command line access via browser.
+> pip3 install sns
+> jupyter notebook --ip 127.0.0.1 # Start NoteBook command line, access via browser.
 ```
