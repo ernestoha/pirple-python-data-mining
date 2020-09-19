@@ -11,7 +11,7 @@
 ```bash
 > python3 -m pip install sklearn
 ```
-* Assignment #3: Apache Spark. **Homework3.ipynb**
+* Assignment #3: Framework Apache Spark. **Homework3.ipynb**
 ```bash
 > sudo apt install default-jdk scala git -y #install
 > java -version; javac -version; scala -version; git --version #check installation
@@ -23,4 +23,8 @@
 > echo "export PYSPARK_PYTHON=/usr/bin/python3" >> ~/.profile
 > source ~/.profile
 # create jupyter.sh file to start jupyter + spark
+```
+* Assignment #4: Map and Flatmap. **Homework4.ipynb**
+```bash
+python3 -m pip install pyspark --no-cache-dir #Install without cache Dir and avoid MemoryError.
 ```
