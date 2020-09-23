@@ -33,3 +33,4 @@ python3 -m pip install pyspark --no-cache-dir #Install without cache Dir and avo
 * Assignment #6: SQL Databases. **Homework6-SQL Databases.ipynb**
 * Project #2: Thinking About Fake News. **Project2.ipynb**
 * Assignment #7: StackOverflow Dataset. **Homework7-StackOverflow Analysis.ipynb**
+* Project #3: Thinking About Fake News from Project 2 - News API consumingwith python and TF IDF. **Project3-Final.ipynb**
