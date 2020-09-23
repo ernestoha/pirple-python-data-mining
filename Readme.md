@@ -31,3 +31,5 @@ python3 -m pip install pyspark --no-cache-dir #Install without cache Dir and avo
 * Project #1: Spark-ML. **Project1.ipynb**
 * Assignment #5: Matrices. **Homework5.ipynb**
 * Assignment #6: SQL Databases. **Homework6-SQL Databases.ipynb**
+* Project #2: Thinking About Fake News. **Project2.ipynb**
+* Assignment #7: StackOverflow Dataset. **Homework7-StackOverflow Analysis.ipynb**
